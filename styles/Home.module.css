@@ -1,0 +1,60 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+  width: 100vw;
+  height: 100vh;
+
+  background: linear-gradient(90deg, #2f2f2f 0%, #000000 100%);
+}
+
+.main > * {
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.title {
+  margin: 0 32px;
+
+  color: #e7e7e7;
+  font-family: Montserrat;
+  font-weight: 600;
+  font-size: 18px;
+  text-align: center;
+}
+
+.logo {
+  width: 120px;
+  height: 120px;
+}
+
+.social {
+  display: flex;
+}
+
+.social > * {
+  margin-left: 20px;
+  margin-right: 20px;
+
+  cursor: pointer;
+}
+
+@media only screen and (min-width: 398px) {
+  .title {
+    font-size: 24px;
+  }
+}
+
+@media only screen and (min-width: 564px) {
+  .title {
+    font-size: 36px;
+  }
+}
+
+@media only screen and (min-width: 731px) {
+  .title {
+    font-size: 48px;
+  }
+}
