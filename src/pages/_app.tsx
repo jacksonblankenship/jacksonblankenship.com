@@ -1,6 +1,6 @@
-import "../styles/globals.css";
-import type { AppProps } from "next/app";
-import "@fontsource/montserrat";
+import '@fontsource/montserrat';
+import type { AppProps } from 'next/app';
+import 'reset-css';
 
 function MyApp({ Component, pageProps }: AppProps) {
   return <Component {...pageProps} />;
