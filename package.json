@@ -28,7 +28,7 @@
     "@types/gtag.js": "0.0.8",
     "@types/node": "16.11.10",
     "@types/react": "17.0.38",
-    "@types/styled-components": "5.1.18",
+    "@types/styled-components": "5.1.19",
     "babel-plugin-inline-react-svg": "2.0.1",
     "babel-plugin-styled-components": "2.0.2",
     "cz-conventional-changelog": "3.3.0",
