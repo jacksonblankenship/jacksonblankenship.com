@@ -37,7 +37,7 @@
     "husky": "7.0.4",
     "prettier": "2.5.1",
     "prettier-plugin-organize-imports": "2.3.4",
-    "stylelint": "14.5.2",
+    "stylelint": "14.5.3",
     "stylelint-config-rational-order": "0.1.2",
     "stylelint-config-recommended": "7.0.0",
     "stylelint-config-styled-components": "0.1.1",
