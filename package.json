@@ -13,7 +13,7 @@
     "prepare": "husky install"
   },
   "dependencies": {
-    "@fontsource/montserrat": "4.5.5",
+    "@fontsource/montserrat": "4.5.7",
     "next": "12.1.0",
     "react": "17.0.2",
     "react-div-100vh": "0.7.0",
