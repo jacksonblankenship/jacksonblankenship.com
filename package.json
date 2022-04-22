@@ -32,7 +32,7 @@
     "babel-plugin-inline-react-svg": "2.0.1",
     "babel-plugin-styled-components": "2.0.7",
     "cz-conventional-changelog": "3.3.0",
-    "eslint": "8.13.0",
+    "eslint": "8.14.0",
     "eslint-config-next": "12.1.5",
     "husky": "7.0.4",
     "prettier": "2.6.2",
