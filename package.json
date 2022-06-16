@@ -36,7 +36,7 @@
     "eslint-config-next": "12.1.6",
     "husky": "8.0.1",
     "prettier": "2.7.0",
-    "prettier-plugin-organize-imports": "2.3.4",
+    "prettier-plugin-organize-imports": "3.0.0",
     "stylelint": "14.9.1",
     "stylelint-config-rational-order": "0.1.2",
     "stylelint-config-recommended": "7.0.0",
